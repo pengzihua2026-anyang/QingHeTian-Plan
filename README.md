@@ -4,7 +4,7 @@
 
 
 ((n-1) mod a + 1)
--------------------
+- - - - - - - - - - 
 ((n-1) mod b + 1)
 
 # We use the numerical sequences of Chinese culture to solve the underlying encryption of computers
