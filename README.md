@@ -2,9 +2,7 @@
 
 ------------------------
 
-       ((n-1) mod a + 1)
-a_n = 
-       ((n-1) mod b + 1)
+a n =((n-1) mod a + 1)/((n-1) mod b + 1)
 
 
 https://pengzihua2026-anyang.github.io/qinghetian/visualizations/modular-quotient.html
