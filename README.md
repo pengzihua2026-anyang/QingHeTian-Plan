@@ -1,10 +1,11 @@
 # QingHeTian-Plan
+# 青禾田之周期门控神经元 (Periodic Gate Neuron)
 
-------------------------
+## 创作声明
+- 核心公式 `((n-1) mod a)+1 / ((n-1) mod b)+1` 由本人于[2026年4月3日]独立设计
+- 公式的数学性质分析、应用场景设计由本人完成
+- 代码实现过程中使用了AI辅助工具进行代码补全
+- 所有算法设计、架构决策、关键代码审查均由本人完成
 
-a n =((n-1) mod a + 1)/((n-1) mod b + 1)
-
-
-https://pengzihua2026-anyang.github.io/qinghetian/visualizations/modular-quotient.html
-# We use the numerical sequences of Chinese culture to solve the underlying encryption of computers
-# 我们用中国文化的数列解决计算机的底层加密
+## 创作过程记录
+详见 `/docs` 文件夹中的推导笔记和设计文档
