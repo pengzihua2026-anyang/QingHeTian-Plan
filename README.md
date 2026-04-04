@@ -10,5 +10,3 @@
 ## 创作过程记录
 详见 `/docs` 文件夹中的推导笔记和设计文档
 
-## 时间戳
-https://v.tsa.cn/dramaResult?s=VFNBLTExLTBIwMjYwNDA0MTU3NjkyNDU0
